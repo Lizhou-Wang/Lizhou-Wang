@@ -1,6 +1,6 @@
-## Hi there 👋
-## I am Lizhou Wang, a doctoral student in music theory in Jacobs School of Music at Indiana University, Bloomington. I am interested in tonal harmony, musical forms, Schenkerian analysis, computational music analysis, neo-tonal theory, and the history of music theory. I am now working on my dissertation regarding the modal system/techniques in Shostakovich's string quartets. 
-## Glad to share some simple programs used in computational music analysis.
+### Hi there 👋
+### I am Lizhou Wang, a doctoral student in music theory in Jacobs School of Music at Indiana University, Bloomington. I am interested in tonal harmony, musical forms, Schenkerian analysis, computational music analysis, neo-tonal theory, and the history of music theory. I am now working on my dissertation focusing on the modal system and techniques in Shostakovich's string quartets. 
+### Glad to share some simple programs used in my computational music analysis.
 <!--
 **Lizhou-Wang/Lizhou-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
